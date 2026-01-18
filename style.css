@@ -169,6 +169,7 @@ filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.4));
   width: 22%;
   border:#eff3f5 4px solid;
   margin-left: -6%;
+  cursor: pointer;
   position: relative;
   display: inline-block;
   transition: transform 0.3s cubic-bezier(0.33, 1, 0.68, 1), filter 0.3s cubic-bezier(0.33, 1, 0.68, 1);
@@ -307,4 +308,5 @@ filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.4));
     transform: translateY(5px);
     width: 25px;
 }
+
 
